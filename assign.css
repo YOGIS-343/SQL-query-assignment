@@ -66,3 +66,7 @@ margin: 1rem;
 h1{
     color:antiquewhite;
 }
+.fs-5 {
+    font-size: 1.25rem!important;
+    color: black;
+}
